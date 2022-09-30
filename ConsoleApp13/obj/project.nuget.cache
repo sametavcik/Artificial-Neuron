@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1H5d5f29gImz4xsTw0aNDhIgDR7R7k3oxt2bFRAaF8WDi284sgZix6yFmmKaJMwb24/DFXLiKJUkJLgyOGTT4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samet\\Desktop\\cv\\datastr-project1\\Yeni klasör\\proje2\\ConsoleApp13\\ConsoleApp13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\Samet\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Samet\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Samet\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

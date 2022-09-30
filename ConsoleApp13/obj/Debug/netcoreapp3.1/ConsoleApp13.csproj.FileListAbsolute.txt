@@ -1,0 +1,42 @@
+C:\Users\Samet\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\Samet\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\Samet\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.AssemblyInfo.cs
+C:\Users\Samet\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.exe
+C:\Users\Samet\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.deps.json
+C:\Users\Samet\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.runtimeconfig.json
+C:\Users\Samet\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.runtimeconfig.dev.json
+C:\Users\Samet\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.dll
+C:\Users\Samet\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.pdb
+C:\Users\Samet\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.dll
+C:\Users\Samet\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.pdb
+C:\Users\Samet\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.genruntimeconfig.cache
+C:\Users\Samet\Desktop\Yeni klasör (2)\Yeni klasör\proje1\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.exe
+C:\Users\Samet\Desktop\Yeni klasör (2)\Yeni klasör\proje1\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.deps.json
+C:\Users\Samet\Desktop\Yeni klasör (2)\Yeni klasör\proje1\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.runtimeconfig.json
+C:\Users\Samet\Desktop\Yeni klasör (2)\Yeni klasör\proje1\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.runtimeconfig.dev.json
+C:\Users\Samet\Desktop\Yeni klasör (2)\Yeni klasör\proje1\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.dll
+C:\Users\Samet\Desktop\Yeni klasör (2)\Yeni klasör\proje1\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.pdb
+C:\Users\Samet\Desktop\Yeni klasör (2)\Yeni klasör\proje1\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\Samet\Desktop\Yeni klasör (2)\Yeni klasör\proje1\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet\Desktop\Yeni klasör (2)\Yeni klasör\proje1\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\Samet\Desktop\Yeni klasör (2)\Yeni klasör\proje1\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.AssemblyInfo.cs
+C:\Users\Samet\Desktop\Yeni klasör (2)\Yeni klasör\proje1\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Desktop\Yeni klasör (2)\Yeni klasör\proje1\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.dll
+C:\Users\Samet\Desktop\Yeni klasör (2)\Yeni klasör\proje1\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.pdb
+C:\Users\Samet\Desktop\Yeni klasör (2)\Yeni klasör\proje1\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.genruntimeconfig.cache
+C:\Users\Samet\Desktop\Yeni klasör\proje2\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.exe
+C:\Users\Samet\Desktop\Yeni klasör\proje2\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.deps.json
+C:\Users\Samet\Desktop\Yeni klasör\proje2\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.runtimeconfig.json
+C:\Users\Samet\Desktop\Yeni klasör\proje2\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.runtimeconfig.dev.json
+C:\Users\Samet\Desktop\Yeni klasör\proje2\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.dll
+C:\Users\Samet\Desktop\Yeni klasör\proje2\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.pdb
+C:\Users\Samet\Desktop\Yeni klasör\proje2\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\Samet\Desktop\Yeni klasör\proje2\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet\Desktop\Yeni klasör\proje2\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\Samet\Desktop\Yeni klasör\proje2\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.AssemblyInfo.cs
+C:\Users\Samet\Desktop\Yeni klasör\proje2\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Desktop\Yeni klasör\proje2\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.dll
+C:\Users\Samet\Desktop\Yeni klasör\proje2\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.pdb
+C:\Users\Samet\Desktop\Yeni klasör\proje2\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.genruntimeconfig.cache
