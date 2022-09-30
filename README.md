@@ -10,6 +10,7 @@
 
 * Toplama İşlevi, girdilerle ağırlıkların çarpımları toplamının alınması şeklinde gerçekleştirilir:
 ![islem](https://user-images.githubusercontent.com/65908597/193352399-0ace8490-9642-466b-b184-cf2cd6d4202d.png)
+![Adsız4](https://user-images.githubusercontent.com/65908597/193357458-aeeeaf04-82cc-4740-add5-e2558523a389.png)
 * Gözetimli Öğrenmede (Supervised Learning), girdilerle beraber olması gereken çıktı değerleri (target) verilir / sistem tarafından sağlanır. Elimizde, toplamları pozitif olan iki adet sayıyı 1, negatif olanları ise -1 olarak sınıflandırmamızı gerektiren bir problemimiz olsun. Toplamları 0 olan sayıları hariç tutuyoruz. Ağın eğitiminde kullanılmak üzere Eğitim (training) verileri üretelim (Tablo 2):
 
 ![Adsız1](https://user-images.githubusercontent.com/65908597/193353024-7c1b504f-b749-4689-a6c5-eba390c00303.png)
