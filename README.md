@@ -18,6 +18,10 @@
 * Ağın ürettiği çıktı (output), olması gereken değerden (beklenen) yani target değerinden farklı ise ağırlıkları λ*(t-o)*xi kadar arttır (t:target, o:output, λ:öğrenme katsayısı olmak üzere): Yani wi = wi + λ*(t-o)*xi .
 * Output ve target değerleri aynı ise ağırlıklarda değişiklik yapma.
 
-#### Eğitim: Tablo 1’deki tüm girdi değerlerini 10’a bölerek oluşan veri seti üzerinde gerçekleştirimidir. λ = 0.05 olarak alınmıştır. 10 epok ve 100 epok (epoch) sonunda yöntemin veri seti üzerindeki doğruluk (accuracy) değeri hesaplanıp yazılmıştır. Bir epok, tüm eğitim verilerinin sisteme bir kere sıra ile verilerek ağırlıkların değiştirilmesi işlemidir. Doğruluk değeri Doğru olarak sınıflandırılan örnek (veri) sayısı / toplam örnek sayısıdır. Elinizdeki 8 verinin 5 tanesi doğru olarak sınıflandırıldıysa doğruluk değeri acc = 5/8 = %62.5’tir.
+#### Eğitim: Tablo 2’deki tüm girdi değerlerini 10’a bölerek oluşan veri seti üzerinde gerçekleştirimidir. λ = 0.05 olarak alınmıştır. 10 epok ve 100 epok (epoch) sonunda yöntemin veri seti üzerindeki doğruluk (accuracy) değeri hesaplanıp yazılmıştır. Bir epok, tüm eğitim verilerinin sisteme bir kere sıra ile verilerek ağırlıkların değiştirilmesi işlemidir. Doğruluk değeri Doğru olarak sınıflandırılan örnek (veri) sayısı / toplam örnek sayısıdır. Elinizdeki 8 verinin 5 tanesi doğru olarak sınıflandırıldıysa doğruluk değeri acc = 5/8 = %62.5’tir.
 
 * Test verilerinin kullanılmasındaki amaç; eğitim verilerinin neuronu eğitip eğitmediğini test etmek içindir.
+
+![Adsız2](https://user-images.githubusercontent.com/65908597/193355627-77ac0e09-3d15-4cfe-803f-fef59aec516e.png)
+
+* Yukarıdaki şekilde görüldüğü gibi eğitim verileri neuronu epok sayısına bağlı olarak eğitmiştir. Epok sayısı arttıkça test ve eğitim verilerindeki doğruluk oranı da paralel olarak artmıştır.
