@@ -17,6 +17,7 @@
 #### Ağın eğitimi işleminde kullanılan Öğrenme Kuralının aşağıdaki gibi verildiğini varsayın:
 * Ağın ürettiği çıktı (output), olması gereken değerden (beklenen) yani target değerinden farklı ise ağırlıkları λ*(t-o)*xi kadar arttır (t:target, o:output, λ:öğrenme katsayısı olmak üzere): Yani wi = wi + λ*(t-o)*xi .
 * Output ve target değerleri aynı ise ağırlıklarda değişiklik yapma.
+![Adsız3](https://user-images.githubusercontent.com/65908597/193357102-25733c94-dc87-41bc-b8c0-4aa52bf2107c.png)
 
 #### Eğitim: Tablo 2’deki tüm girdi değerlerini 10’a bölerek oluşan veri seti üzerinde gerçekleştirimidir. λ = 0.05 olarak alınmıştır. 10 epok ve 100 epok (epoch) sonunda yöntemin veri seti üzerindeki doğruluk (accuracy) değeri hesaplanıp yazılmıştır. Bir epok, tüm eğitim verilerinin sisteme bir kere sıra ile verilerek ağırlıkların değiştirilmesi işlemidir. Doğruluk değeri Doğru olarak sınıflandırılan örnek (veri) sayısı / toplam örnek sayısıdır. Elinizdeki 8 verinin 5 tanesi doğru olarak sınıflandırıldıysa doğruluk değeri acc = 5/8 = %62.5’tir.
 
